@@ -1,3 +1,9 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+from IPython.display import display
+
+data_df = pd.read_excel("C:\\Users\\Arthur\\Documents\\gitHub\\TdP\\APS\\infosaps.xlsx")
+
 def main():
     plt.figure(figsize=(10,6))
     plt.plot(data_df["Constante"],data_df["Tempo iterativo (s)"],label = "Função iterativa",color = "r")
