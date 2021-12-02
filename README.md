@@ -12,6 +12,6 @@
 <p>das tentativas.</p>
 
 <p>Conclusão: Quando se tem valores mais baixos, a função recursiva tem mais chance de executar o programa mais</p>
-<p> rapidamente, já ao aumentarmos o valor, a função iterativa sai na frente na maioria das vezes, e isso se explica pela</p>
-<p> alta quantidade de pilhas a serem carregadas na memória pela função recursiva, o que atrasa um pouco a execução da</p>
+<p>rapidamente, já ao aumentarmos o valor, a função iterativa sai na frente na maioria das vezes, e isso se explica pela</p>
+<p>alta quantidade de pilhas a serem carregadas na memória pela função recursiva, o que atrasa um pouco a execução da</p>
 <p>aplicação.</p>
